@@ -1,0 +1,2 @@
+interface:mover_arm_joints:mover_client
+-DCATKIN_DEVEL_PREFIX=/home/rdwi4122/sudoku_bot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rdwi4122/sudoku_bot_ws/install -G Unix Makefiles

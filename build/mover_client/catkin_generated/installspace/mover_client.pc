@@ -1,0 +1,8 @@
+prefix=/home/rdwi4122/sudoku_bot_ws/install
+
+Name: mover_client
+Description: Description of mover_client
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

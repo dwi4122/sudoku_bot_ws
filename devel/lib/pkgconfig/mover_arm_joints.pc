@@ -1,0 +1,8 @@
+prefix=/home/rdwi4122/sudoku_bot_ws/devel
+
+Name: mover_arm_joints
+Description: Description of mover_arm_joints
+Version: 0.0.0
+Cflags: -I/home/rdwi4122/sudoku_bot_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
